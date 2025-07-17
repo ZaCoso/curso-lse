@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?debugstack-directory version="1.0"?>
+<directory xmlns:xi="http://www.w3.org/2001/XInclude">
+   <xi:include href="file:/D:/Col/UTN/ULTIMA%20COPIA%2017_6/lpc845/ejemplos/99_freertos_integrador/.mcuxpressoide_packages_support/LPC845_support/LPC84x_dir_part.xml"/>
+</directory>
